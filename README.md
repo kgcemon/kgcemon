@@ -30,6 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md--Emon-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-imam-hosen-ba1b56288/)
 [![Twitter](https://img.shields.io/badge/Twitter-MD__Emon-blue?logo=twitter&style=flat-square)](https://twitter.com/kgcemonbd)
 [![facebook](https://img.shields.io/badge/Instagram-Md__Emon-pink?logo=instagram&style=flat-square)](https://www.facebook.com/kgcemonbd/)
-[![Email](https://img.shields.io/badge/Email-nlgarts%40outlook.com-orange?logo=Microsoft-Outlook&style=flat-square)](mailto:kgcemonbd@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kgcemonbd@gmaul.com-orange?logo=Microsoft-Outlook&style=flat-square)](mailto:kgcemonbd@gmail.com)
 
 Let's revolutionize the world with flutter app technology! 🔗✨
